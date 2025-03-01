@@ -9,7 +9,7 @@ export type itens = {
 };
 
 export const listaComum: itens[] = [
-    { id: 1, nome: 'Arroz', quantidade: 2 },
+    { id: 1, nome: 'Arroz', quantidade: 3 },
     { id: 2, nome: 'Arroz', quantidade: 2 },
     { id: 3, nome: 'Arroz', quantidade: 2 },
     { id: 4, nome: 'Arroz', quantidade: 2 },
