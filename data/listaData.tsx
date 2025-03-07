@@ -8,7 +8,7 @@ export type itens = {
     quantidade: number;
 };
 
-export const listaComum: itens[] = [
+export const listaData: itens[] = [
     { id: 1, nome: 'Arroz', quantidade: 2 },
     { id: 2, nome: 'Arroz', quantidade: 2 },
     { id: 3, nome: 'Arroz', quantidade: 2 },
